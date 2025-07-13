@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Semantic SLAM banner" width="100%" />
+</p>
+
 # 🤖 Semantic SLAM using YOLO + OpenCV + Streamlit
 
 This project combines **Visual SLAM** (Simultaneous Localization and Mapping) using OpenCV with real-time **object detection** using YOLOv5 to build intelligent, annotated camera maps.
